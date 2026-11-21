@@ -14,7 +14,7 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 4. 
 
 ## Program:
-
+```
 Import os
 os.environ["OPENBLAS_NUM_THREADS"]="1"
 import numpy as np
@@ -44,10 +44,12 @@ for i in range(n):
 Program to find the solution of a matrix using Gaussian Elimination.
 Developed by: sumanth rk
 RegisterNumber: 26017294
+```<img width="805" height="623" alt="Screenshot 2026-11-21 091226" src="https://github.com/user-attachments/assets/3fa89de3-48aa-4197-82bd-6357f943f2d7" />
 
-
+```
 ## Output:
-![gaussian elimination]()
+![gaussian e<img width="772" height="507" alt="Screenshot 2026-11-21 091231" src="https://github.com/user-attachments/assets/afb3dd8b-daa6-4f69-9ceb-8ce08e6d95c7" />
+limination]()
 
 
 ## Result:
