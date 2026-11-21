@@ -54,8 +54,8 @@ RegisterNumber: 26017294
 
 
 ## Output:
-![gaussian e<img width="772" height="507" alt="Screenshot 2026-11-21 091231" src="https://github.com/user-attachments/assets/afb3dd8b-daa6-4f69-9ceb-8ce08e6d95c7" />
-limination]()
+<img width="772" height="507" alt="Screenshot 2026-11-21 091231" src="https://github.com/user-attachments/assets/876d5fbe-7f18-40fc-9cf9-f1850d92cd56" />
+
 
 
 ## Result:
