@@ -14,7 +14,8 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 4. 
 
 ## Program:
-*/Import os
+'''
+Import os
 os.environ["OPENBLAS_NUM_THREADS"]="1"
 import numpy as np
 import sys
